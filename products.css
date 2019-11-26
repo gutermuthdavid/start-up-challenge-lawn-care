@@ -1,0 +1,25 @@
+#fall {
+	color: #8E5500;
+	background-color: #F99500;
+}
+
+#winter {
+	color: #535261;
+	background-color: #b0aca9;
+}
+
+#spring {
+	color: #0A4600;
+	background-color: #00a800;
+
+}
+
+#summer {
+	color: #585500;
+	background-color: #d0c400;
+}
+
+span {
+	color: #ff0000;
+	text-decoration: underline;
+}

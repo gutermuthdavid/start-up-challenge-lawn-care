@@ -1,0 +1,63 @@
+.carousel-item {
+  height: 75vh;
+  min-height: 500px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.py-5 {
+	text-align: center;
+}
+
+#red {
+	color: red;
+	text-decoration: underline;
+}
+
+#hr1 {
+	border-color: #e37514;
+
+}
+
+#hr2 {
+	border-color: #b0aca9;
+}
+
+#hr3 {
+	border-color: #00a800;
+}
+
+#hr4 {
+	border-color: #d0c400;
+}
+
+.btn {
+	transition: all 0.8s;
+}
+
+.btn:hover {
+	transform: scale(1.2);
+}
+
+#btn1 {
+	background-color: #e37514;
+	border-color: #e37514;
+}
+
+#btn2 {
+	background-color: #b0aca9;
+	border-color: #b0aca9;
+}
+
+#btn3 {
+	background-color: #00a800;
+	border-color: #00a800;
+}
+
+#btn4 {
+	background-color: #d0c400;
+	border-color: #d0c400;
+}
